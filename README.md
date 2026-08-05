@@ -1,7 +1,7 @@
 
 # transformers
 
-Transformers have transformed the field of natural language processing and are now being applied to a wide range of tasks, including image processing and time series prediction. Transformers were introduced by ==Vaswani Adal in the landmark paper, "Attention is All You Need"==. Unlike traditional sequence models such as RNNs, transformers leverage self attention mechanisms to process and put data in parallel, making them highly efficient and powerful. 
+Transformers have transformed the field of natural language processing and are now being applied to a wide range of tasks, including image processing and time series prediction. Transformers were introduced by Vaswani Adal in the landmark paper, "Attention is All You Need". Unlike traditional sequence models such as RNNs, transformers leverage self attention mechanisms to process and put data in parallel, making them highly efficient and powerful. 
 
 Transformers are now the backbone of state of the art models like BERT, GPT, and many others. The transformer model consists of two main parts, the encoder and the decoder. Both the encoder and the decoder are composed of layers that include self attention mechanisms and feed forward neural networks. Self-attention allows the model to weigh the importance of different words in a sentence when encoding a particular word. This is crucial for capturing dependencies that are far apart in the input sequence. 
 
